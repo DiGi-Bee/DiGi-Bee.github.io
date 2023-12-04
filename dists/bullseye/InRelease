@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: Digi-Bee.github.io
 Label: Digi-Bee.github.io
 Codename: bullseye
-Date: Mon, 04 Dec 2023 16:58:13 UTC
+Date: Mon, 04 Dec 2023 18:39:42 UTC
 Architectures: armhf arm64
 Components: main
 Description: DiGi Bee Staging
 MD5Sum:
- b228422942187e97a8a8b406589fc60c 695 main/binary-armhf/Packages
- e21c15399ae525b428a10b32bca4626d 439 main/binary-armhf/Packages.gz
+ b2707472b42565fbcfac66df5c056aee 4418 main/binary-armhf/Packages
+ 1b88d7e4ce0a3f384c9370a295abdff0 1313 main/binary-armhf/Packages.gz
  03dbb488bff561cd33f038d41d524199 119 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  ae43cf56828f37b8572d14e4803a5f1c 120 main/source/Release
 SHA1:
- 075bf1ed5cbf1e0e4ebcfced23227ea80cb54cd9 695 main/binary-armhf/Packages
- 483bd99fe7bac0d1615e097c7c7f7880a59038d9 439 main/binary-armhf/Packages.gz
+ defcbdcb39a0f939f92e85025535f70597cbe9db 4418 main/binary-armhf/Packages
+ cdc342409c1dc0e1ae4b50c02046203dbe148810 1313 main/binary-armhf/Packages.gz
  1b32c0061c5f360c8a3e3f5f6d8a42da35c90546 119 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  e5a428b7165b7d068a3f058279bed21237e3aa6b 120 main/source/Release
 SHA256:
- 633202e770faf9e1bbfc743dec605fb190d4923815b075edd79be26c58ffa1b7 695 main/binary-armhf/Packages
- c2f5ae814a8104f3a1d150ab60739b41deef31cbf93ddaa898dd486512e189fb 439 main/binary-armhf/Packages.gz
+ aa3d481bda3e1c74bebbe348af7c41bc4642ed94416a5f62b15968d1dfc3dd63 4418 main/binary-armhf/Packages
+ 7578072b3cb7867b9cd610b600538df2c3c36bd1ed0f62dba42c0f0f793b40cc 1313 main/binary-armhf/Packages.gz
  3b96726cb0f84792e90b2910dfb6675e719db25d90f14f2f11785786425528b2 119 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
@@ -40,17 +40,17 @@ SHA256:
  ba786b1443e0b137a1a811f302cf8ab52dcc0e86dd30303e0f3a66cc72ff504e 120 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE+xXpgp+TOMgjRlr8yJKW05FRF/YFAmVuBTsACgkQyJKW05FR
-F/ZvARAApiYWqr3E+jmK1oxvXdRZwoMRDejhxeetilWH3D+UWk7oe1EhJNcKH+iO
-QUjYQN7HuNuz7hXylbjfYI9IK8KLp3OPDivwRbIANLWnAsfFlZ+vefiZ92EVZ8Us
-R/O3W02NON8VvOo5T1yH2uD5uL//t19uFMYt2R5zY9k+x+y1OobgWJM7QHpMKPev
-wWsNsgByr6A2zkc2VAEHVjBiy/EvLHxnSt7mHCW5SdH1r2cSiUOgh3ZA7D0N66Ce
-oEt+OXeZIFfTtwt3G7EMxzt8CJcPySyKKNBhWZNYFW75uB5y0bfU2eDU3eJoJ11B
-GsdbmM7MNXcnMBHp3sezMD59LTQWbwKUxfhntqNLVVG/OHKe3gvpbihuuGh7l/Z/
-CclVd3s0F7lX+eE1uS+mUQ3dY2cgpwQFXaeeGcipq5BrWJk9JHRuoz1mU/wMzr5U
-Qxer/MPIGBTIiECJY2Y5RcJHK9CnbfBm9KJCrkY+6pIesboih2YvDjLuWkHwRaPc
-c1D0mrSo8fvNQemBwnPsD69Cs7MG3ju5I95dU5E3/m/uLjNwXzxc55pOAlCBPdMA
-bzQlFw2ZwIMDJLGjZ5RHF6sEQaOc2/Q3ouaOUMwJI73ZsbrCpPJTbMQe6T5M9Rot
-CIA1NiXtaLjNGt4ASnqXzH5McKC4QKgOOvb50mGYQzth3mWhOZY=
-=NOHz
+iQIzBAEBCgAdFiEE+xXpgp+TOMgjRlr8yJKW05FRF/YFAmVuHO4ACgkQyJKW05FR
+F/aDUBAAgTG2sPHL3mSOENa47NtqwG6ltW+aPgWeeu0oc/FramqcmP31IeYVGvKw
+qMssKt5Ax0wF/RPNV88cfiadz9vwRYG8iWD8s9/1htWi1PY92eIOZSVkz01i/Rd3
+DgBWNYCHq+fuiPawsrtoRjCBQJl8S9zAA/Vkksm+o5WF1Sb5afPhMI8DXMStDJmC
+BfJ3xFh/G9l+RiLGUr9J25h1T/MiZNu54x2yviLPWQp4uiemrIWbg/5lGzhuq+D7
+jXvahDGMTJAa/+fhcF/cJA0LirvjpbrKGWWK4ibmKo/AEmm7944Pl9FNLIkOVdzt
+seFThlSPBIhLXYA4NoOJ1zGKaWBSn3l1hJuzFoib5xX3Y9qfS1TTLoujYqHnrioM
+UvKFZZ9JPj1hzpG10pZlrZ1u8y/GkrfOOpXUUTeL2dXkrKuMOq1NImd3/LW6d/BF
+2csBou60lkSLG9sbcROOFEj1yKydkMM8kQu0duYElX8epi74F7UUM3c87d9D5nrw
+q52nv6/o5xyUyojWZMnkQbAbjb4ExnYr1m05a/09FPM5hFDpOZOFTEGzyQssEzak
+3WZZ9Ky+Hb74hjlad6rthQDdu2ON3H/5GFAMNBj6dykgnsEgqifzKq52NyybdN4m
+YuIgB1GI9EoJHwxjRuopynEYeBWN5z49oqy6S3WMvFuCXRhs1ac=
+=is4l
 -----END PGP SIGNATURE-----
