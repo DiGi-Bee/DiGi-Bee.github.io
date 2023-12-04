@@ -1,6 +1,6 @@
 Package: linux-digi-bee
 Source: linux-5.10.180-digi-bee
-Version: 5.10.180-20231204-201258
+Version: 5.10.180-20231204-230543
 Architecture: armhf
 Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
 Installed-Size: 9
@@ -8,29 +8,29 @@ Depends: linux-image-digi-bee, linux-headers-digi-bee
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-5.10.180-digi-bee/linux-digi-bee_5.10.180-20231204-201258_armhf.deb
-Size: 1528
-SHA256: 1d26652ce8e5e25c9bc13c529d577dfaa60bc211c28f3c9ea0ceb5c9dd55f383
-SHA1: 574a35a8ff3676b8bbc96480ade0192d635893d3
-MD5sum: d91af19d2cc3da069836d594223a4c88
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-digi-bee_5.10.180-20231204-230543_armhf.deb
+Size: 1680
+SHA256: 7725c4bfc29dc93986059a183e76584eba70be5cb4bd5177e1473da75de37ba7
+SHA1: 3155d5f0696765c0dafef11dbc77032398dbb26b
+MD5sum: 555b29eb1f906370ceacdc1e338ee94a
 Description: Complete Olimex Linux kernel and headers
  This package will always depend on the latest olimex kernel image and headers
  available.
 
 Package: linux-headers-5.10.180-digi-bee
 Source: linux-5.10.180-digi-bee
-Version: 5.10.180-20231204-201258
+Version: 5.10.180-20231204-230543
 Architecture: armhf
 Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
 Installed-Size: 45609
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-5.10.180-digi-bee/linux-headers-5.10.180-digi-bee_5.10.180-20231204-201258_armhf.deb
-Size: 7596356
-SHA256: 96b8a4676061992e89c2ae1991c7dc93e4623498a596cc7c817cc7b847443a30
-SHA1: 38697b0c9403cb483be246d99aecec4e63d7446e
-MD5sum: 6a0f37f37e5257b0928a12baf1fb428d
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-headers-5.10.180-digi-bee_5.10.180-20231204-230543_armhf.deb
+Size: 7358648
+SHA256: 3f2ccef9340d9d401d42caed63c0944d01779f8f403f00e9ce2d24eb34dadc0d
+SHA1: efade3b31f545376d19e746d5471d5b058762921
+MD5sum: 3f02e0b31238dde9f589c19206a89ae8
 Description: Linux kernel headers for 5.10.180-digi-bee on armhf
  This package provides kernel header files for 5.10.180-digi-bee on armhf
  .
@@ -38,7 +38,7 @@ Description: Linux kernel headers for 5.10.180-digi-bee on armhf
 
 Package: linux-headers-digi-bee
 Source: linux-5.10.180-digi-bee
-Version: 5.10.180-20231204-201258
+Version: 5.10.180-20231204-230543
 Architecture: armhf
 Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
 Installed-Size: 9
@@ -46,36 +46,36 @@ Depends: linux-headers-5.10.180-digi-bee
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-5.10.180-digi-bee/linux-headers-digi-bee_5.10.180-20231204-201258_armhf.deb
-Size: 1508
-SHA256: dc83dd6c7015582b031b17e66f2dc1f584cd27cab55304162edac8816a4fde07
-SHA1: a386d695ce37ddb3a2cff777302c69094c53d9af
-MD5sum: 7d0b82f194740efdd81c10cc3bdeb74d
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-headers-digi-bee_5.10.180-20231204-230543_armhf.deb
+Size: 1668
+SHA256: 9848ae57cee1e010f8792d61803426de89b727e45ae5bb65993520c4364e11cf
+SHA1: 04fda508d9a789181dca973163ec983fff90de2c
+MD5sum: a8f53951b56fff5874283f5fa6a9b594
 Description: Olimex Linux kernel headers
  This package will always depend on the latest olimex kernel headers
  available.
 
 Package: linux-image-5.10.180-digi-bee
 Source: linux-5.10.180-digi-bee
-Version: 5.10.180-20231204-201258
+Version: 5.10.180-20231204-230543
 Architecture: armhf
 Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
-Installed-Size: 80182
+Installed-Size: 80183
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-5.10.180-digi-bee/linux-image-5.10.180-digi-bee_5.10.180-20231204-201258_armhf.deb
-Size: 27246534
-SHA256: 54f45b15095341df485451830233f339e073503b3082b787d5438e94ca7f703c
-SHA1: c35f4b9951c080e300790491e60782aaf6a7c5bd
-MD5sum: 907cc98ccfced5a1361aae5d8795ef4e
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-image-5.10.180-digi-bee_5.10.180-20231204-230543_armhf.deb
+Size: 24799880
+SHA256: a0f9f066e95151bbfc2ba761c632660f6676b16526c6f01a81a958fb484a66c8
+SHA1: aa45589e966dbce47f753cbc82b57d87286672ee
+MD5sum: ee68f9b00f6653bbe8daf9c525be27a8
 Description: Linux kernel, version 5.10.180-digi-bee
  This package contains the Linux kernel, modules and corresponding other
  files, version: 5.10.180-digi-bee.
 
 Package: linux-image-digi-bee
 Source: linux-5.10.180-digi-bee
-Version: 5.10.180-20231204-182002
+Version: 5.10.180-20231204-230543
 Architecture: armhf
 Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
 Installed-Size: 9
@@ -83,18 +83,18 @@ Depends: linux-image-5.10.180-digi-bee
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-5.10.180-digi-bee/linux-image-digi-bee_5.10.180-20231204-182002_armhf.deb
-Size: 1500
-SHA256: 56034fe6d918b62cb428a01881ea8f33e56e08159b3a015cabb053c16dda4f79
-SHA1: 5c75609bfbdef93820dbf267e1cbcad32b30b066
-MD5sum: a4cdbef39691044cbbdf620c0677bcce
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-image-digi-bee_5.10.180-20231204-230543_armhf.deb
+Size: 1660
+SHA256: fcf7b28b0b6fd5fcc76ae0e9c16ffbb24d9c26feb2dc2c94879e8605240980b9
+SHA1: c4dcbeb7bbf584e3d174edb51cf23a009994ed8e
+MD5sum: 1dc7afef5a31474636465e8f80ba08df
 Description: Olimex Linux kernel image
  This package will always depend on the latest olimex kernel image
  available.
 
 Package: linux-libc-dev
 Source: linux-5.10.180-digi-bee
-Version: 5.10.180-20231204-201258
+Version: 5.10.180-20231204-230543
 Architecture: armhf
 Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
 Installed-Size: 5746
@@ -103,11 +103,11 @@ Multi-Arch: same
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: devel
-Filename: pool/main/l/linux-5.10.180-digi-bee/linux-libc-dev_5.10.180-20231204-201258_armhf.deb
-Size: 1143408
-SHA256: 367d7d021bf35c66251a5b6b0d12672292eded3dfaac6ac2d33fed8b7ecd537c
-SHA1: 4a99f3845bc2b7b9cada8377dd80fa7004b28794
-MD5sum: 2016f1f4e9ebecd6de91dcfdda125ec6
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-libc-dev_5.10.180-20231204-230543_armhf.deb
+Size: 1107304
+SHA256: 5b510580cbaaa94b19960df22e4c7901ef768dde0a1268abe0ce2b438dddb29a
+SHA1: e372ad0e07b3d19f06b6c10616a1b6125ab3665d
+MD5sum: ca8e90f20ae262e79deb9e6ab1ca320d
 Description: Linux support headers for userspace development
  This package provides userspaces headers from the Linux kernel.  These headers
  are used by the installed headers for GNU glibc and other system libraries.

@@ -1,13 +1,13 @@
 Origin: Digi-Bee.github.io
 Label: Digi-Bee.github.io
 Codename: bullseye
-Date: Mon, 04 Dec 2023 18:39:42 UTC
+Date: Mon, 04 Dec 2023 21:21:14 UTC
 Architectures: armhf arm64
 Components: main
 Description: DiGi Bee Staging
 MD5Sum:
- b2707472b42565fbcfac66df5c056aee 4418 main/binary-armhf/Packages
- 1b88d7e4ce0a3f384c9370a295abdff0 1313 main/binary-armhf/Packages.gz
+ 4ff8d4bc49e29403f7a6d57f07e2dfdb 4418 main/binary-armhf/Packages
+ b2f7655ecee33ac7cc8bdd2fa72350d9 1302 main/binary-armhf/Packages.gz
  03dbb488bff561cd33f038d41d524199 119 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -16,8 +16,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  ae43cf56828f37b8572d14e4803a5f1c 120 main/source/Release
 SHA1:
- defcbdcb39a0f939f92e85025535f70597cbe9db 4418 main/binary-armhf/Packages
- cdc342409c1dc0e1ae4b50c02046203dbe148810 1313 main/binary-armhf/Packages.gz
+ a75992790cc7c6023c0fe5bd0dffea7ebcb4bd2e 4418 main/binary-armhf/Packages
+ 3906105b27af656e78bc59fc4c399d80c416e45f 1302 main/binary-armhf/Packages.gz
  1b32c0061c5f360c8a3e3f5f6d8a42da35c90546 119 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -26,8 +26,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  e5a428b7165b7d068a3f058279bed21237e3aa6b 120 main/source/Release
 SHA256:
- aa3d481bda3e1c74bebbe348af7c41bc4642ed94416a5f62b15968d1dfc3dd63 4418 main/binary-armhf/Packages
- 7578072b3cb7867b9cd610b600538df2c3c36bd1ed0f62dba42c0f0f793b40cc 1313 main/binary-armhf/Packages.gz
+ e4479b3c4c71433257528a21d73bb2e0edf24d0003d535d9f49320d5da8638ce 4418 main/binary-armhf/Packages
+ 7883f963d1233c3a2707edeaa2f20e10d24bd9dd22cd46bc813296ca98f6d476 1302 main/binary-armhf/Packages.gz
  3b96726cb0f84792e90b2910dfb6675e719db25d90f14f2f11785786425528b2 119 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
