@@ -1,0 +1,19 @@
+Package: linux-image-digi-bee
+Source: linux-5.10.180-digi-bee
+Version: 5.10.180-20231204-182002
+Architecture: armhf
+Maintainer: beywolf <beywolf@ubuntu-nvidia.beywolf-G5-5587>
+Installed-Size: 9
+Depends: linux-image-5.10.180-digi-bee
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-5.10.180-digi-bee/linux-image-digi-bee_5.10.180-20231204-182002_armhf.deb
+Size: 1500
+SHA256: 56034fe6d918b62cb428a01881ea8f33e56e08159b3a015cabb053c16dda4f79
+SHA1: 5c75609bfbdef93820dbf267e1cbcad32b30b066
+MD5sum: a4cdbef39691044cbbdf620c0677bcce
+Description: Olimex Linux kernel image
+ This package will always depend on the latest olimex kernel image
+ available.
+

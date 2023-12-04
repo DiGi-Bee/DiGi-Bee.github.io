@@ -1,0 +1,7 @@
+Origin: Digi-Bee.github.io
+Label: Digi-Bee.github.io
+Codename: bullseye
+Architectures: armhf arm64  source
+Components: main
+Description: DiGi Bee Staging
+SignWith: FB15E9829F9338C823465AFCC89296D3915117F6
