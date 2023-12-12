@@ -1,3 +1,19 @@
+Package: gateway-tools
+Version: 1.0-20231207-185146
+Architecture: all
+Maintainer: Ivan Ucherdzhiev
+Installed-Size: 127
+Depends: i2c-tools, olinuxino-rtk-hciattach
+Priority: optional
+Section: misc
+Filename: pool/main/g/gateway-tools/gateway-tools_1.0-20231207-185146_all.deb
+Size: 9214
+SHA256: 469898d5335c951e7e3d812b9d9fc079809a73cb88f505db6200378368886b06
+SHA1: 289862954a1f2c669d2cba05812ababc8fe65132
+MD5sum: 376291fa99d4877e0e55e876ea3bedfb
+Description: gateway-tools
+ gateway-tools: scripts
+
 Package: linux-digi-bee
 Source: linux-5.10.180-digi-bee
 Version: 5.10.180-20231204-230543
@@ -111,4 +127,109 @@ MD5sum: ca8e90f20ae262e79deb9e6ab1ca320d
 Description: Linux support headers for userspace development
  This package provides userspaces headers from the Linux kernel.  These headers
  are used by the installed headers for GNU glibc and other system libraries.
+
+Package: olinuxino-overlays
+Version: 1.0.4+20231212215013
+Architecture: all
+Maintainer: Olimex Dev team <support@olimex.com>
+Installed-Size: 415
+Priority: optional
+Section: kernel
+Filename: pool/main/o/olinuxino-overlays/olinuxino-overlays_1.0.4+20231212215013_all.deb
+Size: 20950
+SHA256: dee4b2ffb027790353357f44834f74dc3484a5dcb9320f994c7fd9ee6d726f28
+SHA1: d9887aa2fa899d3e2b24f68bc0aaf4e790614853
+MD5sum: 6df69830029f9e68e44b81135fdb8fbb
+Description: FDT overlays for OLinuXino platform
+ .
+ This package provides various helper overlays for I2C, SPI, UART, etc.
+
+Package: olinuxino-rtk-hciattach
+Version: 1.0-20231212-213631
+Architecture: armhf
+Maintainer: Stefan Saraev <stefan@saraev.ca>
+Installed-Size: 145
+Depends: libc6:armhf (>= 2.35)
+Priority: optional
+Section: misc
+Filename: pool/main/o/olinuxino-rtk-hciattach/olinuxino-rtk-hciattach_1.0-20231212-213631_armhf.deb
+Size: 57338
+SHA256: 470cd72e8e9dc3abee62d32928b52844d632428dd2e6e065bb4f7d08e3635596
+SHA1: 316bc501abe8bfc18c9a3733644cbcc755b76a9c
+MD5sum: 501099cdc08ae7667f94aee97cc248c9
+Description: olinuxino-rtk-hciattach
+ rtk_hciattach
+
+Package: teres1-ledctrl
+Version: 1.0-20231212-211650
+Architecture: armhf
+Maintainer: Stefan Saraev <stefan@saraev.ca>
+Installed-Size: 15
+Priority: optional
+Section: unknown
+Filename: pool/main/t/teres1-ledctrl/teres1-ledctrl_1.0-20231212-211650_armhf.deb
+Size: 1980
+SHA256: c793d2c3b5f6aad14ac85fb88b33ebac453ad618cb51ddfc3117e63cf561c50e
+SHA1: c9a6fcb814b63dc620456e3aa17c8e92bbc8c38c
+MD5sum: 3ee0e7c180e95d78a6aeea09f672cf1c
+Description: teres1-ledctrl
+ quick and dirty capsl/numl led trigger
+
+Package: u-boot-olinuxino
+Version: 2021.04+olimex-1-20231207.195614
+Architecture: armhf
+Maintainer: DiGi-Bee <valentin.devedjiev@gmail.com>
+Installed-Size: 2853
+Breaks: u-boot (<< 2014.10~rc2+dfsg1-2~), u-boot-sunxi
+Replaces: u-boot (<< 2014.10~rc2+dfsg1-2~), u-boot-sunxi
+Multi-Arch: same
+Homepage: http://www.denx.de/wiki/U-Boot/
+Priority: optional
+Section: admin
+Filename: pool/main/u/u-boot-olinuxino/u-boot-olinuxino_2021.04+olimex-1-20231207.195614_armhf.deb
+Size: 543510
+SHA256: 752c7335d147589bbc4dcafbd468519c531155ac5e37d4d3010b96b559d987d5
+SHA1: 0c49568b9f3e0ef8065670443877037b6f89fa79
+MD5sum: 867a02848ba8c96cf1aac4a0e4fd503e
+Description: A boot loader for olinuxino boards
+ Das U-Boot is a cross-platform bootloader for embedded systems,
+ used as the default boot loader by several board vendors.  It is
+ intended to be easy to port and to debug, and runs on many
+ supported architectures, including PPC, ARM, MIPS, x86, m68k,
+ NIOS, and Microblaze.
+ .
+ This package includes boot loaders for various Allwinner/sunxi
+ platforms.
+ A64-OLinuXino-1G
+ A64-OLinuXino-2Ge8G-IND
+ A64-OLinuXino-1Ge16GW
+ A64-OLinuXino-1Gs16M
+ A64-OLinuXino-1Ge4GW
+
+Package: u-boot-tools-olinuxino
+Source: u-boot-olinuxino
+Version: 2021.04+olimex-1-20231207.195614
+Architecture: armhf
+Maintainer: DiGi-Bee <valentin.devedjiev@gmail.com>
+Installed-Size: 382
+Depends: libc6:armhf (>= 2.35)
+Recommends: device-tree-compiler
+Breaks: u-boot (<< 2010.12-2), u-boot-tools, uboot-envtools (<< 20081215-3~), uboot-mkimage (<= 0.4build1)
+Replaces: u-boot (<< 2010.12-2), u-boot-tools, uboot-envtools (<< 20081215-3~), uboot-mkimage (<= 0.4build1)
+Multi-Arch: foreign
+Homepage: http://www.denx.de/wiki/U-Boot/
+Priority: optional
+Section: admin
+Filename: pool/main/u/u-boot-olinuxino/u-boot-tools-olinuxino_2021.04+olimex-1-20231207.195614_armhf.deb
+Size: 140374
+SHA256: 6bec1f4e63d06fd5fd8e006b02a18ee386293473074f760a9d4cd04d57563a29
+SHA1: 918e6e54e4f3455cc7e11a54b1901ae8132ee1cb
+MD5sum: 2d02452805a08a88f3bfb0becd7e489d
+Description: companion tools for Das U-Boot bootloader
+ This package includes programs for generating and listing U-Boot
+ images in various formats:
+  - mkimage
+  - dumpimage
+  - mksunxiboot
+  - mkenvimage
 

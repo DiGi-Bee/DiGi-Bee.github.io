@@ -4,53 +4,53 @@ Hash: SHA512
 Origin: Digi-Bee.github.io
 Label: Digi-Bee.github.io
 Codename: bullseye
-Date: Mon, 04 Dec 2023 21:21:14 UTC
+Date: Tue, 12 Dec 2023 19:58:08 UTC
 Architectures: armhf arm64
 Components: main
 Description: DiGi Bee Staging
 MD5Sum:
- 4ff8d4bc49e29403f7a6d57f07e2dfdb 4418 main/binary-armhf/Packages
- b2f7655ecee33ac7cc8bdd2fa72350d9 1302 main/binary-armhf/Packages.gz
+ 23aa6c0419edbfa73a774d873c396421 8723 main/binary-armhf/Packages
+ 4e7da6a5420d5c03a65c9e89c30066b4 2873 main/binary-armhf/Packages.gz
  03dbb488bff561cd33f038d41d524199 119 main/binary-armhf/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 23841c5cba9fcc3b40cd2602739d0370 1065 main/binary-arm64/Packages
+ 20d065363a500e66529429a833d3614c 600 main/binary-arm64/Packages.gz
  83493c6caebc8de1dbbbd09a3cfab2d0 119 main/binary-arm64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
- 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 012990ffba63848f6c1f255f695b2011 1147 main/source/Sources
+ e143c98153dfab9028b25f75df79617c 568 main/source/Sources.gz
  ae43cf56828f37b8572d14e4803a5f1c 120 main/source/Release
 SHA1:
- a75992790cc7c6023c0fe5bd0dffea7ebcb4bd2e 4418 main/binary-armhf/Packages
- 3906105b27af656e78bc59fc4c399d80c416e45f 1302 main/binary-armhf/Packages.gz
+ 9f782e37d92c618386bcff0baa8eff841d36cf97 8723 main/binary-armhf/Packages
+ 5be4ed715a2a4cb946e755ab730866f185dbfe2e 2873 main/binary-armhf/Packages.gz
  1b32c0061c5f360c8a3e3f5f6d8a42da35c90546 119 main/binary-armhf/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ c9dc9a5002cf4159f02a3a1f70b94dc4b8f4499e 1065 main/binary-arm64/Packages
+ 134c39add81cd6cebbde264e6450078bcc46692c 600 main/binary-arm64/Packages.gz
  6b55a75dfb3bdf8a15614d68c79a549ed1f51662 119 main/binary-arm64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 7f89acadd29c9bd19061b0a72a19b64920e99f28 1147 main/source/Sources
+ 3a861fceb717191b1ab0c7273ba641e6b13f386d 568 main/source/Sources.gz
  e5a428b7165b7d068a3f058279bed21237e3aa6b 120 main/source/Release
 SHA256:
- e4479b3c4c71433257528a21d73bb2e0edf24d0003d535d9f49320d5da8638ce 4418 main/binary-armhf/Packages
- 7883f963d1233c3a2707edeaa2f20e10d24bd9dd22cd46bc813296ca98f6d476 1302 main/binary-armhf/Packages.gz
+ b4ea528f5ab17167e5a9d027159f9cdb1757daf749b9bcced97c63e5f2427dd2 8723 main/binary-armhf/Packages
+ 3d7f4c04a6feca1c23b211e2e7fc213e81fcd636b434cd668585e0e0988fbda9 2873 main/binary-armhf/Packages.gz
  3b96726cb0f84792e90b2910dfb6675e719db25d90f14f2f11785786425528b2 119 main/binary-armhf/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ bddc7a5d548525cf546b847323739751ed328c94a2479a630c034bb1c24ca9a3 1065 main/binary-arm64/Packages
+ 8dc2eeb5bab272cfcf10d2268171e150212517a0b2ce126da31b563fdd7984f8 600 main/binary-arm64/Packages.gz
  d279bd94ad281aaacebc546bd489f7b945795bd6062bbd7f3d5da2dd5c5961b3 119 main/binary-arm64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 67874aa62093f97ed297eb1495e492f70b1c269175ec4ee774c58351f9459f37 1147 main/source/Sources
+ 285edc6bfc3fcb850723775f5263ee8f311d8b3b3d6350dd36f274ffa09f2990 568 main/source/Sources.gz
  ba786b1443e0b137a1a811f302cf8ab52dcc0e86dd30303e0f3a66cc72ff504e 120 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE+xXpgp+TOMgjRlr8yJKW05FRF/YFAmVuQssACgkQyJKW05FR
-F/aHSw//aZFsB5Uu9CZfIGqcfzyhfvaHgtiZis0oXyxW2NeP0pCtUGz0JbzyY1wg
-kjAEtBxbKrwXgdPtnndJHiLRBFKIn+VYtfTR0nYCGsK2QkYlM5uCSuDyVhF5LdSB
-H7ONMaYQFvU0Y0F5n4I4ncw6TRPcp0DGF23OxuHW5eLiTqgvX2T4QrvOoGQQkrrC
-02GHuxWoGs8pPj8NsmxKZ/LdnvBaPsuFHH0pkyokgzWVII/qpmU4rptgzIHCyS7H
-c/naMtG2gi53lcqXZft/RaXhc1JQjo/wzmVARUh04jol83N2ObG8YAMAGzu2Txyk
-jtDViJgcoB2JSSged/OO76SRdq3Myv3bJiUPI6C1VxYHoSwMG1QAFHQhex8OAF9I
-Af8rLdS2pERV673xHkorpSEBY2bweQAABQl5yPfsR0XgpNzEoZsuqhdnA1I6FDn+
-/pFJ8t5vycpzatxRWD81RUOD7ek+saa0wvI/k7lyRxLNk+1HIFvxANqXXeIJ1yPt
-qF0LyObUBogYP72qEartRgEOOZyhrykiT6SHEF+P7LfDTxC9ziFvY5kY7YvCeFWO
-sWsFYzoJq3XmfN15LL46/QSJyN07PdjkzkXe1RFkuuozc601l8K9Ylhxjj6l2BVM
-y6wHwFslQOvR+wSrjqaALa1QzaGk3LguWTtInKKWBSvpsd4o5Bc=
-=5BhZ
+iQIzBAEBCgAdFiEE+xXpgp+TOMgjRlr8yJKW05FRF/YFAmV4u1EACgkQyJKW05FR
+F/aRRA/8DNyeLGOm0VD8R9p/5zNU3yXo1qJsnuVR+Nw9AVmbEDVDI2TpslQQT6Cg
+9zQRXzeGPSsJZjv65z5DJRCBWe12NhYAwVumVFs9XR7KSBx3UQu2//6nfnnMN2vi
+yfvfCpKqI5n0xmFgB1PxBhSE8yqF0doL9SFU/op2e1RV1Szc4Dl4y/01p78xrRUJ
+3lSggCXHBYCftQs0p97FymgtY4R1iIsXxELbywivnj/VUtz3jmVuU7MpHpBIXNyR
+oDS8ZgnwxfSo04Sgbzh5O5nk3SUhoFlWwuB7jbHelkAD5k6VoQCyCap7jd3Cbbet
+VeYU3HEis8vp8H3Uv014TFhbiNKlLNImvMSDw7xX7oIqgSvTOedkqeehtCi7Px6S
+aZpXBypVVEM8kWs3Kn9oXQ5/0sv2IT+KQoDB0nrCfyfufpA5y7kuRURQlIelV8yi
+zFtfZCsblHB3dpPBnDKVimOK8scNH1+ktHjLP/6vuxxztCLL2ZQulmKzR+Tel3f1
+K5qVdYNkAdmfvfxKFt04M26m39Scc36fH0Djo0ub3oYb9ki+PdF6tYajiwFbcJEI
+s7bP2nITRaeelt18QnxO1najHU/kjboU6IUsV2Z/R2eewfcTY7OCu9GqMS4I5JAu
+EJXSuYkFOib4Rz9Ef643hqFfiScMxxzAK7XWurT7le5ZStapAlc=
+=YHaT
 -----END PGP SIGNATURE-----

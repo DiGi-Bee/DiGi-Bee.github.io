@@ -1,0 +1,32 @@
+Package: gateway-tools
+Version: 1.0-20231207-185146
+Architecture: all
+Maintainer: Ivan Ucherdzhiev
+Installed-Size: 127
+Depends: i2c-tools, olinuxino-rtk-hciattach
+Priority: optional
+Section: misc
+Filename: pool/main/g/gateway-tools/gateway-tools_1.0-20231207-185146_all.deb
+Size: 9214
+SHA256: 469898d5335c951e7e3d812b9d9fc079809a73cb88f505db6200378368886b06
+SHA1: 289862954a1f2c669d2cba05812ababc8fe65132
+MD5sum: 376291fa99d4877e0e55e876ea3bedfb
+Description: gateway-tools
+ gateway-tools: scripts
+
+Package: olinuxino-overlays
+Version: 1.0.4+20231212215013
+Architecture: all
+Maintainer: Olimex Dev team <support@olimex.com>
+Installed-Size: 415
+Priority: optional
+Section: kernel
+Filename: pool/main/o/olinuxino-overlays/olinuxino-overlays_1.0.4+20231212215013_all.deb
+Size: 20950
+SHA256: dee4b2ffb027790353357f44834f74dc3484a5dcb9320f994c7fd9ee6d726f28
+SHA1: d9887aa2fa899d3e2b24f68bc0aaf4e790614853
+MD5sum: 6df69830029f9e68e44b81135fdb8fbb
+Description: FDT overlays for OLinuXino platform
+ .
+ This package provides various helper overlays for I2C, SPI, UART, etc.
+
