@@ -1,16 +1,16 @@
 Package: gateway-tools
-Version: 1.0-20231207-185146
+Version: 1.0-20231213-115313
 Architecture: all
 Maintainer: Ivan Ucherdzhiev
 Installed-Size: 127
 Depends: i2c-tools, olinuxino-rtk-hciattach
 Priority: optional
 Section: misc
-Filename: pool/main/g/gateway-tools/gateway-tools_1.0-20231207-185146_all.deb
-Size: 9214
-SHA256: 469898d5335c951e7e3d812b9d9fc079809a73cb88f505db6200378368886b06
-SHA1: 289862954a1f2c669d2cba05812ababc8fe65132
-MD5sum: 376291fa99d4877e0e55e876ea3bedfb
+Filename: pool/main/g/gateway-tools/gateway-tools_1.0-20231213-115313_all.deb
+Size: 9160
+SHA256: ccb0e6f16fc778885048e8d3a91b23a736b19acfef5c19150a5c7efc00ba242c
+SHA1: 5e7981be42bc4d147beae9ab5c4ab6db866ac1ff
+MD5sum: 0d80483061613d4864bdf41aa6931575
 Description: gateway-tools
  gateway-tools: scripts
 
@@ -136,10 +136,10 @@ Installed-Size: 415
 Priority: optional
 Section: kernel
 Filename: pool/main/o/olinuxino-overlays/olinuxino-overlays_1.0.4+20231212215013_all.deb
-Size: 20950
-SHA256: dee4b2ffb027790353357f44834f74dc3484a5dcb9320f994c7fd9ee6d726f28
-SHA1: d9887aa2fa899d3e2b24f68bc0aaf4e790614853
-MD5sum: 6df69830029f9e68e44b81135fdb8fbb
+Size: 19984
+SHA256: 2042f84477366a62242ebfe9099c7e5fc996d869e31d4a72d8e96d960daab04a
+SHA1: 8f2ade7839bf5e447d6aec30c64cecd5cec30ef2
+MD5sum: 9f32f91a223488cb4a32c63a09457068
 Description: FDT overlays for OLinuXino platform
  .
  This package provides various helper overlays for I2C, SPI, UART, etc.
@@ -179,17 +179,17 @@ Description: debug symbols for olinuxino-rtk-hciattach
 Build-Ids: 4faac6d5dea0420789fe747e58665d148f02e42b
 
 Package: teres1-ledctrl
-Version: 1.0-20231212-211650
+Version: 1.0-20231213-115717
 Architecture: armhf
 Maintainer: Stefan Saraev <stefan@saraev.ca>
 Installed-Size: 15
 Priority: optional
 Section: unknown
-Filename: pool/main/t/teres1-ledctrl/teres1-ledctrl_1.0-20231212-211650_armhf.deb
-Size: 1980
-SHA256: c793d2c3b5f6aad14ac85fb88b33ebac453ad618cb51ddfc3117e63cf561c50e
-SHA1: c9a6fcb814b63dc620456e3aa17c8e92bbc8c38c
-MD5sum: 3ee0e7c180e95d78a6aeea09f672cf1c
+Filename: pool/main/t/teres1-ledctrl/teres1-ledctrl_1.0-20231213-115717_armhf.deb
+Size: 2112
+SHA256: 07c97d9832908321e7d9b4d5bac9a1f62e32ed30ea9494d1e6b14dfa50c030e9
+SHA1: d32081891cbc970cce119f10d1f98fd565eead5d
+MD5sum: fb1ee8cdb0fa04e2fd8092514f989177
 Description: teres1-ledctrl
  quick and dirty capsl/numl led trigger
 

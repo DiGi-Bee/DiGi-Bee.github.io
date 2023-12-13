@@ -11,8 +11,8 @@ Build-Depends: debhelper-compat (= 12), device-tree-compiler
 Package-List:
  olinuxino-overlays deb kernel optional arch=all
 Checksums-Sha1:
- 8aa99d15e683cd368b7974e5e4453f98917d9afc 44596 olinuxino-overlays_1.0.4+20231212215013.tar.xz
+ a38274a9e196961dae6a767dbf42940e14d683fc 126553 olinuxino-overlays_1.0.4+20231212215013.tar.gz
 Checksums-Sha256:
- b81350e58f82a2aadba3820fda7f22704f4d9211f1066c6d7b4c993c10b32ed5 44596 olinuxino-overlays_1.0.4+20231212215013.tar.xz
+ 859041df909a4e846e4060e605312ba2917fd5d2dc9e33204a3cf4ef28391508 126553 olinuxino-overlays_1.0.4+20231212215013.tar.gz
 Files:
- 486eac19b27abc65a696ed56112fe1e3 44596 olinuxino-overlays_1.0.4+20231212215013.tar.xz
+ cfede308627251fc17c83dc49e030831 126553 olinuxino-overlays_1.0.4+20231212215013.tar.gz
