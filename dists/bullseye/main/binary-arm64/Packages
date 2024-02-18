@@ -15,17 +15,17 @@ Description: gateway-tools
  gateway-tools: scripts
 
 Package: olinuxino-overlays
-Version: 1.0.4+20231212215013
+Version: 1.0.4+20240218223817
 Architecture: all
 Maintainer: Olimex Dev team <support@olimex.com>
-Installed-Size: 415
+Installed-Size: 414
 Priority: optional
 Section: kernel
-Filename: pool/main/o/olinuxino-overlays/olinuxino-overlays_1.0.4+20231212215013_all.deb
-Size: 19984
-SHA256: 2042f84477366a62242ebfe9099c7e5fc996d869e31d4a72d8e96d960daab04a
-SHA1: 8f2ade7839bf5e447d6aec30c64cecd5cec30ef2
-MD5sum: 9f32f91a223488cb4a32c63a09457068
+Filename: pool/main/o/olinuxino-overlays/olinuxino-overlays_1.0.4+20240218223817_all.deb
+Size: 19808
+SHA256: 55d96d0f12aedb50793c35c8a9959af08a3d46d219a937714b2e649ccbb55a78
+SHA1: 1dafbb30cc596abfc03a0b460e9437a127c60119
+MD5sum: 04da3308a80d537911170515520651e3
 Description: FDT overlays for OLinuXino platform
  .
  This package provides various helper overlays for I2C, SPI, UART, etc.

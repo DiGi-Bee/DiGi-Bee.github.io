@@ -1,37 +1,37 @@
 Origin: Digi-Bee.github.io
 Label: Digi-Bee.github.io
 Codename: bullseye
-Date: Wed, 13 Dec 2023 09:57:21 UTC
+Date: Sun, 18 Feb 2024 22:03:10 UTC
 Architectures: armhf arm64
 Components: main
 Description: DiGi Bee Staging
 MD5Sum:
- 58bf305886468037751a4cee168c51e2 9420 main/binary-armhf/Packages
- 4cdf0fffe31de54b76e681cd729cc069 3066 main/binary-armhf/Packages.gz
+ ae1d790fbb628fccca061fed7b779306 9420 main/binary-armhf/Packages
+ 9db86b1f1e0075152458088415534849 3078 main/binary-armhf/Packages.gz
  03dbb488bff561cd33f038d41d524199 119 main/binary-armhf/Release
- a35e3527a822ea98961e61dfc0fac417 1065 main/binary-arm64/Packages
- 3d302454539632ef7196a313ef221ac4 599 main/binary-arm64/Packages.gz
+ 5063abf002fb4280ec50f1da411375a0 1065 main/binary-arm64/Packages
+ 1c4b8d5fd85e1bd3db62180e536012d1 603 main/binary-arm64/Packages.gz
  83493c6caebc8de1dbbbd09a3cfab2d0 119 main/binary-arm64/Release
- c6d99cef1a45c7dea072fdbb9da26959 1150 main/source/Sources
- 0fda7b52107cd8ca6f5ad3ab936e2856 568 main/source/Sources.gz
+ fe12278edc1a48c69a683abc30252332 1150 main/source/Sources
+ f2fc4bfc6bb720d7c5c471ff56796857 566 main/source/Sources.gz
  ae43cf56828f37b8572d14e4803a5f1c 120 main/source/Release
 SHA1:
- c86b914ba697a71a7e5f4cf5e560338d59276f0b 9420 main/binary-armhf/Packages
- f9ffc986d457f790830d620de4ff6db33b14c988 3066 main/binary-armhf/Packages.gz
+ 93590bf8ace74379ae8108644d39c9e56b0ffa98 9420 main/binary-armhf/Packages
+ 3da9bc8387673cde6a6e4e1011ba1e5205dc83a6 3078 main/binary-armhf/Packages.gz
  1b32c0061c5f360c8a3e3f5f6d8a42da35c90546 119 main/binary-armhf/Release
- 14fce6857a9f8fb321ad7f247cb15c1fbbbc9078 1065 main/binary-arm64/Packages
- 3f31466904121c8d2d1e1fc17ea1627ba324bbe0 599 main/binary-arm64/Packages.gz
+ 2f32db77b91bd8a13b6bdda30f8ff4ffff6a6fae 1065 main/binary-arm64/Packages
+ e664b4deaa5b95dac70f89510401de8134f49c5d 603 main/binary-arm64/Packages.gz
  6b55a75dfb3bdf8a15614d68c79a549ed1f51662 119 main/binary-arm64/Release
- 6f0259b63c6849dd7cac4edb1ade7c8e7f6f8219 1150 main/source/Sources
- 66053db9a8f9e7218573c97504d12ad0c260961e 568 main/source/Sources.gz
+ 02e862ab1a2d0ea8494794f522bd99c7f79794a4 1150 main/source/Sources
+ 8fafb5f35f3b96eed6cd53cd7b4fde27cc551fa5 566 main/source/Sources.gz
  e5a428b7165b7d068a3f058279bed21237e3aa6b 120 main/source/Release
 SHA256:
- f4e205edba11c393153b4bbdc4dbc132c2afb1817470f1309cbbc7d1ae3df5b0 9420 main/binary-armhf/Packages
- 85f42ecfd2b4e025c1eecec9aa9896cca28986d67bc8761941cf15b6bcad1c57 3066 main/binary-armhf/Packages.gz
+ 4bfd733323d6ce730fe748d11dfc5c89fa55021282599f9375e36f41b6cc1331 9420 main/binary-armhf/Packages
+ ca7197965473a2bfed0511e48d4a51a0de06be6ff55eb879a0367582d5a9293a 3078 main/binary-armhf/Packages.gz
  3b96726cb0f84792e90b2910dfb6675e719db25d90f14f2f11785786425528b2 119 main/binary-armhf/Release
- f392d74d52a33c16a069419d5ce561c61ff7ca678b4d3f696ee54b3120078ca9 1065 main/binary-arm64/Packages
- 6e1679934436ff13eee121f0da9d5c5535963f460d5b5f2fc13e45ce23378689 599 main/binary-arm64/Packages.gz
+ 1bb6037dfcda283e0b053a77be66545e6b39be0f5b67e2c53de3c6d4ea81df35 1065 main/binary-arm64/Packages
+ 0155fcdbf0837c95389f714fcb4b586cbad266a52e0b9ce33ba75d2bea3aa0c2 603 main/binary-arm64/Packages.gz
  d279bd94ad281aaacebc546bd489f7b945795bd6062bbd7f3d5da2dd5c5961b3 119 main/binary-arm64/Release
- 62f46161961e01600ece27bf14ce97929e006cac1fd9e9c455cd2acba619fd00 1150 main/source/Sources
- d3ee3ee35987ff20040eb15a1ab7cd145294490d14d71ffcf5b963026f54d218 568 main/source/Sources.gz
+ 4d23c60289e28678ce72e000d31d5627ed3a1686bfcc93ccdeb67adde84c7845 1150 main/source/Sources
+ 08b1cd8cfe6f11d1973b51995885686ba97472222a9e49ccbc1732c8800156fe 566 main/source/Sources.gz
  ba786b1443e0b137a1a811f302cf8ab52dcc0e86dd30303e0f3a66cc72ff504e 120 main/source/Release
